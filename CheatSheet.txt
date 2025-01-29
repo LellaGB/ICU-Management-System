@@ -1,0 +1,20 @@
+1#Aspirin#Fever#500#Mild#R110.00
+2#Amoxicillin#Bacterial Infection#15#Moderate#R145.50
+3#Ibuprofen#Pain and Inflammation#800#Mild#R99.99
+4#Lisinopril#Hypertension#50#Severe#R220.25
+5#Levothyroxine#Hypothyroidism#120#Moderate#R125.75
+6#Metformin#Type 2 Diabetes#75#Moderate#R149.99
+7#Simvastatin#High Cholesterol#45#Moderate#R97.50
+8#Omeprazole#Acid Reflux#14#Moderate#R114.49
+9#Azithromycin#Respiratory Infections#5#Severe#R179.99
+10#Prednisone#Inflammatory Conditions#20#Moderate#R102.50
+11#Atorvastatin#High Cholesterol#15#Moderate#R129.99
+12#Warfarin#Blood Clots#80#Severe#R187.50
+13#Citalopram#Depression#10#Moderate#R134.49
+14#Losartan#Hypertension#30#Moderate#R119.99
+15#Albuterol#Asthma#90#Mild#R157.50
+16#Tramadol#Moderate to Severe Pain#40#Severe#R164.99
+17#Doxycycline#Bacterial Infections#18#Moderate#R99.99
+18#Fluoxetine#Depression#12#Moderate#R125.25
+19#Amlodipine#Hypertension#60#Moderate#R147.75
+20#Escitalopram#Anxiety#25#Moderate#R139.99
